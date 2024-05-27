@@ -36,3 +36,4 @@ finetune/
 
 
 ## 代码链接
+clone zip文件然后解压即可：https://github.com/Hupping/finetuning-resnet101-with-cub200
