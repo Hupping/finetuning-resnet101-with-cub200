@@ -33,7 +33,7 @@ finetune/
 2. 在微调实验中，尝试了不同超参数组合，发现训练论数为25轮，学习率为0.001时效果最好，此时在测试集上准确率能达到81%。
 
 ## 模型权重链接
-
+链接: https://pan.baidu.com/s/1cbCcM4Gg5EJ8SCTAwAD22w?pwd=wsaz 提取码: wsaz
 
 ## 代码链接
 clone zip文件然后解压即可：https://github.com/Hupping/finetuning-resnet101-with-cub200
